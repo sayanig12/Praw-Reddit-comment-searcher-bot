@@ -10,3 +10,5 @@ By Sayani Ghosh
 4. Clone repositiory and fill in your details in the praw.ini file.
 5. Run from command line.
 
+NB: Code is based on project by https://github.com/elebumm/AlotRedditApi/blob/master/main.py
+    Modifications: - Having a .ini file for api_key and also showing the actual comment text along with the author name.
